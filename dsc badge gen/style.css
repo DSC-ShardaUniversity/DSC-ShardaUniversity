@@ -176,8 +176,8 @@ canvas {
 }
 @media screen and (max-width: 860px) {
     header {
-      height: 56px;
-      font-size: 16px;
+      height: 65px;
+      font-size: 12px;
     }
     .main-container {
       flex-direction: column;
